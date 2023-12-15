@@ -1,0 +1,31 @@
+{
+    "body": {
+        "messages": [
+            {
+                "@type": "/cosmwasm.wasm.v1.MsgExecuteContract",
+                "sender": "cosmos1g5qa5vqmrcazpgqxxywwfyrm7sva6y9flgywlc9rx057hq048w8srz2mu6",
+                "contract": "cosmos1g5qa5vqmrcazpgqxxywwfyrm7sva6y9flgywlc9rx057hq048w8srz2mu6",
+                "msg": {
+                    "update_pubkey": {
+                        "new_pubkey": "AuFUt9g9uckLNgVlO7BCzqUCOL8OUg+zIgeHTxxeG4Fy"
+                    }
+                }
+            }
+        ],
+        "memo": "",
+        "timeout_height": "0",
+        "extension_options": [],
+        "non_critical_extension_options": []
+    },
+    "auth_info": {
+        "signer_infos": [],
+        "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+        },
+        "tip": null
+    },
+    "signatures": []
+}

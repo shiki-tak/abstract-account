@@ -2,13 +2,11 @@
 build/
 
 # cosmwasm
-**/artifacts/
 
 # rust
 **/target/
 
 # testing
-**/testdata/
 **/wasm/wasm/
 
 # editors
